@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Tales of the Jazz Age",
-  "type": "text"
+  "type": "text",
+  "book_id": 636
 }
